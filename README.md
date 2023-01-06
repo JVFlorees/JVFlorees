@@ -1,4 +1,4 @@
-### olá Eu sou João Victor Flores 👋
+### olá Eu sou João Victor Flores e eu estudo Desenvolvimento web na Udemy 👋
 
 <div>
   <a href="https://github.com/JVFlorees">

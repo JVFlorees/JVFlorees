@@ -1,5 +1,5 @@
 ### olá Eu sou João Victor Flores 
-Estudo Analise e Desenvolvimento na Unicid, 
+Estudo Analise e Desenvolvimento de sistemas na Unicid, 
 e Desenvolvimento web na Udemy 👋
 
 <div>

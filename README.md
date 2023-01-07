@@ -1,4 +1,6 @@
-### olá Eu sou João Victor Flores e eu estudo Desenvolvimento web na Udemy 👋
+### olá Eu sou João Victor Flores 
+Estudo Analise e desenvolvimento na Unicid, 
+e Desenvolvimento web na Udemy 👋
 
 <div>
   <a href="https://github.com/JVFlorees">
